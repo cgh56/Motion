@@ -9,12 +9,12 @@
   ],
   "creatorBuild" : "34359",
   "files" : {
-    "\/assets\/daniel-leone-g30P1zcOzXo-unsplash.jpg" : {
+    "\/assets\/IMG_8798.jpeg" : {
       "ft" : 16384,
-      "iS" : 833978,
+      "iS" : 8515882,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/daniel-leone-g30P1zcOzXo-unsplash.jpg",
+      "oAP" : "\/assets\/IMG_8798.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -34,9 +34,9 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/hero.jpg" : {
+    "\/deploy\/img\/hero.jpeg" : {
       "ft" : 16384,
-      "iS" : 98619,
+      "iS" : 8515882,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/hero.jpg",
